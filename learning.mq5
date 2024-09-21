@@ -1,0 +1,2 @@
+int iMA_handle; 
+iMA_handle=iMA("EURUSD",PERIOD_H1,10,0,MODE_SMA,PRICE_CLOSE);
